@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+![MACACO_no_computador](https://user-images.githubusercontent.com/117784719/201548162-9887c648-2b23-45fd-9d94-309815ecfd12.gif)
 
-![image](https://user-images.githubusercontent.com/117784719/201548119-f8b909fb-d7b3-4e65-bd07-ac11291e53bf.png)
 
 <!---
 dePaulaAndre/dePaulaAndre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
