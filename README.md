@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+![image](https://user-images.githubusercontent.com/117784719/201548119-f8b909fb-d7b3-4e65-bd07-ac11291e53bf.png)
+
 <!---
 dePaulaAndre/dePaulaAndre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
